@@ -12,6 +12,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.0.0"
+    "astro": "^7.0.0",
+    "netlify-cli": "^26.1.0"
   }
 }
